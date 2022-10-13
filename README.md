@@ -21,10 +21,10 @@ Steps involved in this project to solve it.
 5. Format into a JSON and send the data using POST API.
 
 This project contains:
-Java 11 as programming language
-Gradle as build tool
+ "*" Java 11 as programming language
+ "*" Gradle as build tool
 
 Dependencies:
-SpringBoot
-Lombok
-Jackson
+ "*" SpringBoot
+ "*" Lombok
+ "*" Jackson
