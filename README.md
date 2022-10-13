@@ -25,6 +25,6 @@ This project contains:
  "*" Gradle as build tool
 
 Dependencies:
- "*" SpringBoot
- "*" Lombok
- "*" Jackson
+ * SpringBoot
+ * Lombok
+ * Jackson
